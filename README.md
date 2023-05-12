@@ -1,4 +1,4 @@
-# GOLDEN-WHISPER
+ # Golden Whisper
 
 
 
@@ -16,6 +16,26 @@ Our collection spans a wide range of styles, from classic and traditional design
 
 <br><br>
 
+
+
+
+ # ![Alt text](src/Golden%20image/box%20(3).png) Our Jewels 
+ ![Alt text](src/Golden%20image/diamond%20(4).png) [Abd Alrahman Alzaro](https://github.com/AbdalrahmanAlzaro) 
+
+![Alt text](src/Golden%20image/diamond%20(4).png)[Amer Khawalda](https://github.com/Amer-Khawalda)
+
+![Alt text](src/Golden%20image/diamond%20(4).png) [Mufid Alnadi](https://github.com/MufidAlnadi) 
+
+![Alt text](src/Golden%20image/gem.png) [Tasneem ](https://github.com/Tasneemmah) 
+
+![Alt text](src/Golden%20image/gem.png) [Dania Abughaush ](https://github.com/daniaabughaush) 
+
+<br><br>
+
+
+
+
+
 # ![Alt text](src/Golden%20image/jewelry%20(1).png) Tools That we used in this project
 ### ![ react](src/Golden%20image/atom.png) React
 ### ![ Figma](src/Golden%20image/figma.png) Figma
@@ -30,4 +50,12 @@ Our collection spans a wide range of styles, from classic and traditional design
 
 <br><br>
 ![Alt text](src/Golden%20image/gemstone.png) Jewelry Power Organization ![Alt text](src/Golden%20image/gemstone.png)
+
+
+
+
+
+
+
+
 

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Fauna+One&family=Nunito&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body{
+  margin:0;
+  padding:0;
+}
+.App {
+  margin: auto;
+}
+.aa{
+  height: 40rem;
+  border-radius: 0;
+  margin-bottom:4rem
+}
+.pvalidate{
+  display: none
+}
+.pWrong{
+  display:block;
+  color:red
+}
